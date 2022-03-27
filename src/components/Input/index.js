@@ -6,7 +6,7 @@ class Input extends Component {
     render() {
         return (
             <div className='result-container'>
-                <p className="result-item" value={this.props.value}>{this.props.value}</p>
+                <p className="result-item">{this.props.value}</p>
             </div>
         )
     }
