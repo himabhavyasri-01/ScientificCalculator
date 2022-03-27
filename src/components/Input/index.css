@@ -1,0 +1,13 @@
+.result-container {
+    width: 510px;
+    height: 100px;
+    margin: 5px;
+    margin-bottom: 15px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+  }

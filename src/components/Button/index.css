@@ -1,0 +1,25 @@
+.button {
+    height: 60px;
+    width: 70px;
+    margin: 5px;
+    border-width: 0px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700px;
+  }
+ .enter {
+  height: 60px;
+  width: 70px;
+  margin: 5px;
+  border-width: 0px;
+  background-color: rgba(29, 87, 211, 0.877);
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+ }
+  
+    
